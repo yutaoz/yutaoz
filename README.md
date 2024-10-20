@@ -1,5 +1,8 @@
-## Hi there 👋
 
+
+uwaterloo cs interested in systems + security + making stuff
+
+in flow state through the bruh dimension
 <!--
 **yutaoz/yutaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
